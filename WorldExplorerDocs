@@ -1,0 +1,124 @@
+Project Title: World Explorer – Discover Countries and Their Specialities
+
+Project Overview
+World Explorer is an interactive web-based experience that allows users to explore different countries and learn about their origins, capitals, and famous landmarks. The website should feel engaging and visually rich, similar to scrolling through an educational travel reel rather than reading a traditional information page. The goal is to make learning about countries fun, simple, and visually appealing through images, animations, and background music.
+
+Concept
+The website presents different countries as animated sections. As users scroll through the page, each section introduces a country with its name, capital city, historical origin, and famous landmark images. Each country section should appear with smooth animations so the experience feels like traveling across the world.
+
+Content Structure
+Each country section should include:
+
+• Country Name
+• National Flag
+• Capital City
+• Short Origin or Historical Background
+• Famous Landmark Images
+• Specialities such as food, culture, or natural beauty
+
+Each country must include **1–2 famous images or landmarks** so users can visually connect with the country.
+
+Example Format
+
+Country: Japan
+Capital: Tokyo
+Origin: Japan has a rich cultural history influenced by samurai traditions and ancient temples.
+Famous Images: Mount Fuji, Tokyo city skyline
+Specialities: Cherry blossoms, anime culture, sushi.
+
+Country: France
+Capital: Paris
+Origin: France has played an important role in European history and culture.
+Famous Images: Eiffel Tower, Louvre Museum
+Specialities: Fashion, art, cuisine.
+
+Countries to Include
+The website should include at least **50 countries** with their capitals and famous landmarks.
+
+India – Capital: New Delhi – Famous Images: Taj Mahal, Red Fort
+Japan – Capital: Tokyo – Famous Images: Mount Fuji, Shibuya Crossing
+France – Capital: Paris – Famous Images: Eiffel Tower, Louvre Museum
+United States – Capital: Washington D.C. – Famous Images: Statue of Liberty, Grand Canyon
+United Kingdom – Capital: London – Famous Images: Big Ben, Tower Bridge
+Germany – Capital: Berlin – Famous Images: Brandenburg Gate, Berlin Wall
+Italy – Capital: Rome – Famous Images: Colosseum, Leaning Tower of Pisa
+Spain – Capital: Madrid – Famous Images: Sagrada Familia, Park Güell
+China – Capital: Beijing – Famous Images: Great Wall of China, Forbidden City
+Russia – Capital: Moscow – Famous Images: Saint Basil’s Cathedral, Red Square
+Canada – Capital: Ottawa – Famous Images: Niagara Falls, CN Tower
+Australia – Capital: Canberra – Famous Images: Sydney Opera House, Great Barrier Reef
+Brazil – Capital: Brasília – Famous Images: Christ the Redeemer, Amazon Rainforest
+Mexico – Capital: Mexico City – Famous Images: Chichen Itza, Teotihuacan
+South Korea – Capital: Seoul – Famous Images: Gyeongbokgung Palace, N Seoul Tower
+Thailand – Capital: Bangkok – Famous Images: Grand Palace, Phi Phi Islands
+Indonesia – Capital: Jakarta – Famous Images: Bali Beaches, Borobudur Temple
+Malaysia – Capital: Kuala Lumpur – Famous Images: Petronas Towers, Batu Caves
+Singapore – Capital: Singapore – Famous Images: Marina Bay Sands, Gardens by the Bay
+Turkey – Capital: Ankara – Famous Images: Hagia Sophia, Cappadocia
+Saudi Arabia – Capital: Riyadh – Famous Images: Mecca, Al-Ula
+United Arab Emirates – Capital: Abu Dhabi – Famous Images: Burj Khalifa, Sheikh Zayed Mosque
+Egypt – Capital: Cairo – Famous Images: Pyramids of Giza, Sphinx
+South Africa – Capital: Pretoria – Famous Images: Table Mountain, Kruger National Park
+Kenya – Capital: Nairobi – Famous Images: Maasai Mara, Mount Kenya
+Argentina – Capital: Buenos Aires – Famous Images: Iguazu Falls, Obelisk of Buenos Aires
+Chile – Capital: Santiago – Famous Images: Andes Mountains, Atacama Desert
+Peru – Capital: Lima – Famous Images: Machu Picchu, Sacred Valley
+Greece – Capital: Athens – Famous Images: Parthenon, Santorini
+Netherlands – Capital: Amsterdam – Famous Images: Windmills, Tulip Fields
+Belgium – Capital: Brussels – Famous Images: Grand Place, Atomium
+Switzerland – Capital: Bern – Famous Images: Swiss Alps, Matterhorn
+Austria – Capital: Vienna – Famous Images: Schönbrunn Palace, Alps
+Sweden – Capital: Stockholm – Famous Images: Gamla Stan, Northern Lights
+Norway – Capital: Oslo – Famous Images: Fjords, Northern Lights
+Denmark – Capital: Copenhagen – Famous Images: Nyhavn Harbor, Little Mermaid Statue
+Finland – Capital: Helsinki – Famous Images: Lapland, Santa Claus Village
+Poland – Capital: Warsaw – Famous Images: Wawel Castle, Old Town
+Portugal – Capital: Lisbon – Famous Images: Belém Tower, Pena Palace
+Ireland – Capital: Dublin – Famous Images: Cliffs of Moher, Dublin Castle
+New Zealand – Capital: Wellington – Famous Images: Milford Sound, Hobbiton
+Philippines – Capital: Manila – Famous Images: Chocolate Hills, Boracay Beach
+Vietnam – Capital: Hanoi – Famous Images: Ha Long Bay, Golden Bridge
+Nepal – Capital: Kathmandu – Famous Images: Mount Everest, Pashupatinath Temple
+Sri Lanka – Capital: Colombo – Famous Images: Sigiriya Rock, Temple of the Tooth
+Pakistan – Capital: Islamabad – Famous Images: Faisal Mosque, Hunza Valley
+Bangladesh – Capital: Dhaka – Famous Images: Sundarbans, Lalbagh Fort
+Mongolia – Capital: Ulaanbaatar – Famous Images: Gobi Desert, Genghis Khan Statue
+Iceland – Capital: Reykjavik – Famous Images: Blue Lagoon, Northern Lights
+Hungary – Capital: Budapest – Famous Images: Parliament Building, Chain Bridge
+
+User Experience Flow
+When users open the website, they see a welcome screen titled **“World Explorer – Discover Countries Around the World.”** Background travel-themed music begins playing.
+
+Users scroll through the page to discover countries one by one. Each country section appears with animations such as fade-ins, sliding cards, or zoom effects.
+
+Visual Design
+The website should include a world map theme, country flags, and colorful travel-inspired backgrounds. Each country card should display famous landmark images.
+
+Audio Experience
+Soft travel-style background music should play throughout the website. Optional sound effects can play when users explore a new country.
+
+Interactive Features
+
+Country Cards
+Each country appears as a card containing its flag, capital, and famous landmark images.
+
+Search Feature
+Users can search for any country.
+
+Random Country Generator
+A button that displays a random country and its details.
+
+Continent Filters
+Users can filter countries by continent such as Asia, Europe, Africa, and America.
+
+Hover Animations
+Country cards slightly enlarge or glow when hovered.
+
+Interactive World Map
+Users can click on a country on the map to see its information.
+
+Favorite Countries
+Users can save their favorite countries.
+
+Goal
+The goal of this website is to create an engaging and visually rich learning platform where users can explore many countries, learn about their capitals and origins, and discover famous landmarks through images and interactive features.
